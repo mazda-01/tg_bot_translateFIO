@@ -1,2 +1,3 @@
-# tg_bot_translateFIO
- translation of full name
+# Инструкция
+ Заменить в dockerfile "Your Token" на Ваш токен
+ Логирование в mylog.log
