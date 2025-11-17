@@ -1,0 +1,26 @@
+17:29:02 - bot - INFO - <module>: 17 - Hello
+17:29:02 - selector_events - DEBUG - __init__: 64 - Using selector: KqueueSelector
+17:29:02 - dispatcher - INFO - start_polling: 566 - Start polling
+17:29:05 - dispatcher - INFO - _polling: 363 - Run polling for bot @docker_mazda_bot id=8487979177 - 'Docker by mazda'
+17:29:11 - dispatcher - INFO - feed_update: 172 - Update id=454960394 is handled. Duration 0 ms by bot id=8487979177
+17:29:30 - dispatcher - INFO - feed_update: 172 - Update id=454960395 is handled. Duration 7009 ms by bot id=8487979177
+17:29:33 - dispatcher - INFO - feed_update: 172 - Update id=454960396 is handled. Duration 186 ms by bot id=8487979177
+17:29:45 - dispatcher - INFO - feed_update: 172 - Update id=454960397 is handled. Duration 555 ms by bot id=8487979177
+17:29:53 - dispatcher - INFO - feed_update: 172 - Update id=454960398 is handled. Duration 0 ms by bot id=8487979177
+17:29:56 - dispatcher - INFO - feed_update: 172 - Update id=454960399 is handled. Duration 0 ms by bot id=8487979177
+17:29:57 - dispatcher - INFO - feed_update: 172 - Update id=454960400 is handled. Duration 0 ms by bot id=8487979177
+17:29:57 - dispatcher - INFO - feed_update: 172 - Update id=454960401 is handled. Duration 0 ms by bot id=8487979177
+17:31:08 - dispatcher - ERROR - _listen_updates: 219 - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+17:31:08 - dispatcher - WARNING - _listen_updates: 221 - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8487979177)
+17:32:52 - bot - INFO - <module>: 17 - Hello
+17:32:52 - selector_events - DEBUG - __init__: 64 - Using selector: KqueueSelector
+17:32:52 - dispatcher - INFO - start_polling: 566 - Start polling
+17:32:54 - dispatcher - INFO - _polling: 363 - Run polling for bot @docker_mazda_bot id=8487979177 - 'Docker by mazda'
+17:32:54 - dispatcher - INFO - feed_update: 172 - Update id=454960403 is handled. Duration 1 ms by bot id=8487979177
+17:33:06 - dispatcher - INFO - feed_update: 172 - Update id=454960404 is handled. Duration 8172 ms by bot id=8487979177
+17:33:06 - dispatcher - INFO - feed_update: 172 - Update id=454960402 is handled. Duration 12513 ms by bot id=8487979177
+17:33:13 - dispatcher - INFO - feed_update: 172 - Update id=454960405 is handled. Duration 161 ms by bot id=8487979177
+17:33:15 - dispatcher - INFO - feed_update: 172 - Update id=454960406 is handled. Duration 0 ms by bot id=8487979177
+17:33:18 - dispatcher - INFO - feed_update: 172 - Update id=454960407 is handled. Duration 0 ms by bot id=8487979177
+17:33:19 - dispatcher - INFO - feed_update: 172 - Update id=454960408 is handled. Duration 0 ms by bot id=8487979177
+17:33:21 - dispatcher - INFO - feed_update: 172 - Update id=454960409 is handled. Duration 0 ms by bot id=8487979177
